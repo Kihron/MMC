@@ -1,10 +1,10 @@
 {
-  "1": {
+  "group1": {
     "title": "Social Media Marketing",
     "image": "socialmedia",
     "description": "Learn how to get serious with your social media accounts. This group is ideal for those who are interested in going into Social Media careers!"
   },
-  "2": {
+  "group2": {
     "title": "Adobe InDesign",
     "image": "indesign",
     "description": "In this project group, students will learn graphic layout basics with InDesign."
