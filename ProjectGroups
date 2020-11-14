@@ -1,12 +1,33 @@
+
 [
   {
     "id": "1",
     "title": "Social Media Marketing",
     "image": "socialmedia",
-    "shortDescription": "Learn how to get serious with your social media accounts. This group is ideal for those who are interested in going into Social Media careers!",
-    "longDescription": "Social media marketing is the vastly growing use of social media platforms to promote your product or service. Many big companies use this type of marketing to reach younger generations and target who receives their ads. In this group you will learn about social media campaigns, benefits of different sites and how to understand analytics among many other important aspects of social media marketing.",
+    "shortdescription": "Learn how to get serious with your social media accounts. This group is ideal for those who are interested in going into Social Media careers!",
+    "longdescription": "Social media marketing is the vastly growing use of social media platforms to promote your product or service. Many big companies use this type of marketing to reach younger generations and target who receives their ads. In this group you will learn about social media campaigns, benefits of different sites and how to understand analytics among many other important aspects of social media marketing.",
     "time": "Monday at 2:30 PM",
     "instructor:": "Hope Miller",
     "email": "miller.8894@osu.edu"
+  },
+  {
+    "id": "2",
+    "title": "Adobe InDesign",
+    "image": "indesign",
+    "shortdescription": "In this project group, students will learn graphic layout basics with InDesign.",
+    "longdescription": "Adobe InDesign is a desktop publishing software application produced by Adobe Systems. It can be used to create works such as posters, flyers, brochures, magazines, newspapers, presentations, books and ebooks. InDesign can also publish content suitable for tablet devices in conjunction with Adobe Digital Publishing Suite. Graphic designers and production artists are the principal users, creating and laying out periodical publications, posters, and print media. It also supports export to EPUB and SWF formats to create e-books and digital publications, including digital magazines, and content suitable for consumption on tablet computers.",
+    "time": "Monday at 3:30 PM",
+    "instructor": "Natalie Steigmann-Gall",
+    "email": "steigmann-gall.1@osu.edu"
+  },
+  {
+    "id": "3",
+    "title": "Podcasting",
+    "image": "indesign",
+    "shortdescription": "Learn how to make a podcast using the Anchor Podcasting App. Use tools such as Audacity, Garageband and more!",
+    "longdescription": "According to their Wikipedia: \"A podcast is an episodic series of digital audio or video files which a user can download and listen to. It is often available for subscription, so that new episodes are automatically downloaded via web syndication to the user's own local computer, mobile application, or portable media player. It is distinct from Internet radio, which involves streaming rather than downloading.\"\r\n\r\nLearn how to make a podcast using the Anchor Podcasting App. Use tools such as Audacity, Garageband and more! Learn where to find royalty free music, where to market your podcast, tips about the Internet, and RSS distributing.",
+    "time": "Monday at 4:00 PM",
+    "instructor": "AJ Leslie",
+    "email": "leslie.140@osu.edu"
   }
 ]
