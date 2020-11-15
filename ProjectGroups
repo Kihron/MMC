@@ -9,7 +9,7 @@
     "time": "Monday at 2:30 PM",
     "instructor": "Hope Miller",
     "email": "miller.8894@osu.edu",
-    "show": false
+    "show": "false"
   },
   {
     "id": "2",
@@ -20,7 +20,7 @@
     "time": "Monday at 3:30 PM",
     "instructor": "Natalie Steigmann-Gall",
     "email": "steigmann-gall.1@osu.edu",
-    "show": false
+    "show": "false"
   },
   {
     "id": "3",
@@ -31,6 +31,6 @@
     "time": "Monday at 4:00 PM",
     "instructor": "AJ Leslie",
     "email": "leslie.140@osu.edu",
-    "show": false
+    "show": "false"
   }
 ]
