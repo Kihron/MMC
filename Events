@@ -7,5 +7,14 @@
     "longdescription": "Mandatory event for all new MMC students. New students will meet current MMC members at this event.",
     "time": "8/24/20 at 6:15 PM",
     "location": "Morrill Tower Browsing Room"
+  },
+  {
+    "id": "2",
+    "title": "MMConnect #1",
+    "image": "defaultevent",
+    "shortdescription": "Get to know your fellow Scholars!",
+    "longdescription": "Mandatory: New students will meet current MMC members at this event to choose mentor family.",
+    "time": "9/1/20 - 9/3/20 (Choose One)",
+    "location": "Morrill Tower Browsing Room"
   }
 ]
